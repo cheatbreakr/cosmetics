@@ -1,13 +1,455 @@
 { 
-   "uuid":"64653e1a-389a-42c9-b8c9-81a90106bbb3",
+   "uuid":"07d6910e-fc59-46e0-96dd-07694e06d4ee",
    "username":null,
    "cosmetics":{ 
+      "4th_hokage":{ 
+         "name":"4th_hokage",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"4th_hokage"
+},
       "420":{ 
          "name":"420",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"420"   
+         "resourceLocation":"420"
+},
+      "argentina":{ 
+         "name":"argentina",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"argentina"
+},
+      "au":{ 
+         "name":"au",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"au"
+},
+      "australia":{ 
+         "name":"australia",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"australia"":{ 
+},
+      "belgium":{ 
+         "name":"belgium",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"belgium"
+},
+      "brazil":{ 
+         "name":"brazil",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"brazil"
+},
+      "canada":{ 
+         "name":"canada",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"canada"
+},
+      "cb":{ 
+         "name":"cb",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"cb"
+},
+      "cb_gold":{ 
+         "name":"cb_gold",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"cb_gold"
+},
+      "cb_red":{ 
+         "name":"cb_red",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"cb_red"
+},
+      "cb_staff":{ 
+         "name":"cb_staff",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"cb_staff"
+},
+      "chile":{ 
+         "name":"chile",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"chile"
+},
+      "croatia":{ 
+         "name":"croatia",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"croatia"
+},
+      "default":{ 
+         "name":"default",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"default"
+},
+      "default_dark":{ 
+         "name":"default_dark",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"default_dark"
+},
+      "default_light":{ 
+         "name":"default_light",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"default_light"
+},
+      "djibouti":{ 
+         "name":"djibouti",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"djibouti"
+},
+      "drip":{ 
+         "name":"drip",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"drip"
+},
+      "drip_staff":{ 
+         "name":"drip_staff",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"drip_staff"
+},
+      "faze":{ 
+         "name":"faze",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"faze"
+},
+      "faze_1":{ 
+         "name":"faze_1",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"faze_1"
+},      
+      "faze_2":{ 
+         "name":"faze_2",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"faze_2"
+},      
+      "france":{ 
+         "name":"france",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"france"
+},           
+      "germany":{ 
+         "name":"germany",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"germany"
+},            
+      "blackbeta":{ 
+         "name":"blackbeta",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"blackbeta"
+},       
+      "goldenappledark":{ 
+         "name":"goldenappledark",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"goldenappledark"
+},         
+      "goldenapplewhite":{ 
+         "name":"goldenapplewhite",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"goldenapplewhite"
+},
+      "greece":{ 
+         "name":"greece",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"greece"
+},
+      "guatemala":{ 
+         "name":"guatemala",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"guatemala"
+},
+      "heart1":{ 
+         "name":"heart1",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"heart1"
+},
+      "heart2":{ 
+         "name":"heart2",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"heart2"  
+},
+      "ireland":{ 
+         "name":"ireland",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"ireland"
+},
+      "israel":{ 
+         "name":"israel",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"israel"
+},
+      "italy":{ 
+         "name":"italy",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"italy" 
+},
+      "japan":{ 
+         "name":"japan",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"japan" 
+},
+      "kangaroo":{ 
+         "name":"kangaroo",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"kangaroo"
+},
+      "kangaroofamily":{ 
+         "name":"kangaroofamily",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"kangaroofamily"
+},
+      "koala":{ 
+         "name":"koala",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"koala"         
+},
+      "koalafamily":{ 
+         "name":"koalafamily",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"koalafamily"   
+},
+      "lithuania":{ 
+         "name":"lithuania",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"lithuania"  
+},
+      "nasa":{ 
+         "name":"nasa",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"nasa"
+},
+      "netherlands":{ 
+         "name":"netherlands",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"netherlands"
+},       
+      "newzealand":{ 
+         "name":"newzealand",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"newzealand"
+},         
+      "norway":{ 
+         "name":"norway",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"norway"
+},
+      "perry":{ 
+         "name":"perry",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"perry"
+},
+      "peru":{ 
+         "name":"peru",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"peru"
+},
+      "poland":{ 
+         "name":"poland",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"poland"
+},
+      "portugal":{ 
+         "name":"portugal",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"portugal"  
+},
+      
+      "russia":{ 
+         "name":"russia",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"russia"
+},
+      "serbia":{ 
+         "name":"serbia",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"serbia"
+},
+      "southkorea":{ 
+         "name":"southkorea",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"southkorea" 
+},
+      "spain":{ 
+         "name":"spain",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"spain" 
+},
+      "sweden":{ 
+         "name":"sweden",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"sweden"
+},
+      "twitch_1":{ 
+         "name":"twitch_1",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"twitch_1"
+},
+      "twitch_2":{ 
+         "name":"twitch_2",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"twitch_2"
+},
+      "uk":{ 
+         "name":"uk",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"uk"   
+},
+      "ultra_cape_1":{ 
+         "name":"ultra_cape_1",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"ultra_cape_1"  
+},
+      "ultra_cape_2":{ 
+         "name":"ultra_cape_2",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"ultra_cape_2"           
+},
+      "usa":{ 
+         "name":"usa",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"usa"
+},
+      "venezuela":{ 
+         "name":"venezuela",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"venezuela"
+},
+      "youtube_1":{ 
+         "name":"youtube_1",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"youtube_1"           
+},
+      "youtube_2":{ 
+         "name":"youtube_2",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"youtube_2"
+},
+      "youtube_3":{ 
+         "name":"youtube_3",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"youtube_3"   
       }
    }
 }
